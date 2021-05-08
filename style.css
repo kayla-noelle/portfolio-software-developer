@@ -1,0 +1,95 @@
+body {
+  background-color:#f5f5f5;
+}
+
+
+hr {
+  color: white;
+}
+.lighter-background{
+  background:linear-gradient(45deg,#8e9aaf,#cbc0d3,#efd3d7,#feeafa, #dee2ff);
+  margin: auto;
+  padding: 25px 15px;
+}
+article{
+  margin: 25px 15px;
+  padding: 15px 15px;
+}
+h1{
+font-family: 'Lust-Display', Times New Roman, Times, serif;
+font-size:50px;
+font-weight: bold;
+text-align: center;
+color:white;
+}
+h2{
+font-family: 'Lust-Display', Times New Roman, Times, serif;
+font-size:25px;
+font-weight: bold;
+text-align: center;
+color:rgb(51, 51, 51);
+}
+h3{
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size:30px;
+  font-weight:100 ;
+  text-align: center;
+  color:rgb(255, 255, 255);
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  padding: 25px 25px;
+
+}
+
+p {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size:12px;
+  text-align: center;
+  color:rgb(51, 51, 51);
+  margin: 25px 15px;
+  padding: 5px 10px;
+}
+
+ol{
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size:12px;
+  color:rgb(51, 51, 51);
+  font-weight: bold;
+}
+
+footer{
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size:10px;
+  font-weight: bold;
+  text-align: center;
+  color:rgb(51, 51, 51);
+  margin: auto;
+}
+
+hr.style {
+	border-top: 3px double #8c8b8b;
+}
+
+
+a:link {
+  color:rgb(51, 51, 51);
+}
+
+/* visited link */
+a:visited {
+  color:rgb(51, 51, 51);
+}
+
+/* mouse over link */
+a:hover {
+  color: #feeafa,;
+}
+
+/* selected link */
+a:active {
+  color:#8e9aaf;
+}
