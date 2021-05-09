@@ -14,6 +14,7 @@ hr {
 article{
   margin: 25px 15px;
   padding: 15px 15px;
+  height: 150px;
 }
 h1{
 font-family: 'Lust-Display', Times New Roman, Times, serif;
@@ -40,13 +41,13 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 45%;
+  width: 25%;
   padding: 25px 25px;
 }
 
 p {
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
-  font-size:12px;
+  font-size:35px;
   text-align: center;
   color:rgb(51, 51, 51);
   margin: 25px 15px;
