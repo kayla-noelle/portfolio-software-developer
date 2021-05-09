@@ -22,14 +22,14 @@ font-weight: bold;
 text-align: center;
 color:white;
 }
-h2{
+h3{
 font-family: 'Lust-Display', Times New Roman, Times, serif;
 font-size:45px;
 font-weight: bold;
 text-align: center;
 color:rgb(51, 51, 51);
 }
-h3{
+h2{
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   font-size:40px;
   font-weight:100 ;
@@ -50,7 +50,8 @@ p {
   text-align: center;
   color:rgb(51, 51, 51);
   margin: 25px 15px;
-  padding: 5px 10px;
+  padding: 15px 10px;
+  height:10px
 }
 
 ol{
@@ -70,7 +71,7 @@ footer{
 }
 
 hr.style {
-	border-top: 3px double #8c8b8b;
+	border-top: 5px double #8c8b8b;
 }
 
 
