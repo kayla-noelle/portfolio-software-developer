@@ -14,7 +14,6 @@ hr {
 article{
   margin: 25px 15px;
   padding: 15px 15px;
-  height: 50px;
 }
 h1{
 font-family: 'Lust-Display', Times New Roman, Times, serif;
@@ -63,7 +62,7 @@ ol{
 
 footer{
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
-  font-size:20px;
+  font-size:18px;
   font-weight: bold;
   text-align: center;
   color:rgb(51, 51, 51);
