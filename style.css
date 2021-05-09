@@ -51,7 +51,7 @@ img {
   padding: 25px 25px;
 }
 
-p {
+ul,p {
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   font-size:20px;
   text-align: center;
@@ -60,12 +60,12 @@ p {
   padding: 50px 200px 50px 200px;
 }
 
-ul,ol{
+ol{
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   font-size:20px;
   color:rgb(51, 51, 51);
   font-weight: bold;
-  padding: 50px 200px;
+  padding: 50px 200px 50px 200px;
 }
 
 footer{
