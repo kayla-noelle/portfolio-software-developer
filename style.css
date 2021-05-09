@@ -93,21 +93,21 @@ hr.style {
 }
 
 
-a::link {
+a:link {
   color:rgb(51, 51, 51);
 }
 
 /* visited link */
-a::visited {
+a:visited {
   color:9381ff;
 }
 
 /* mouse over link */
-a::hover {
+a:hover {
   color: #feeafa,;
 }
 
 /* selected link */
-a::active {
+a:active {
   color:#8e9aaf;
 }
