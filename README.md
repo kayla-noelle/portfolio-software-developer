@@ -1,4 +1,4 @@
-# portfolio-software-developer2
+# portfolio-software-developer
 
 ## Overview
 This is my personal website where I will showcase my projects and skills to future employers what I've learned from Thinkful's Software Engineering Flex Program. 
